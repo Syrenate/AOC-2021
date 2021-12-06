@@ -1,0 +1,16 @@
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\bin\Debug\net5.0\Overlap With Diagonals.exe
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\bin\Debug\net5.0\Overlap With Diagonals.deps.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\bin\Debug\net5.0\Overlap With Diagonals.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\bin\Debug\net5.0\Overlap With Diagonals.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\bin\Debug\net5.0\Overlap With Diagonals.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\bin\Debug\net5.0\ref\Overlap With Diagonals.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\bin\Debug\net5.0\Overlap With Diagonals.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\Overlap With Diagonals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\Overlap With Diagonals.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\Overlap With Diagonals.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\Overlap With Diagonals.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\Overlap With Diagonals.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\ref\Overlap With Diagonals.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\Overlap With Diagonals.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\Overlap With Diagonals.genruntimeconfig.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlap With Diagonals\obj\Debug\net5.0\Overlap With Diagonals.csproj.AssemblyReference.cache

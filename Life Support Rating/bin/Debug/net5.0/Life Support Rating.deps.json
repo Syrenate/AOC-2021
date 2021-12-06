@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Life Support Rating/1.0.0": {
+        "runtime": {
+          "Life Support Rating.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Life Support Rating/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

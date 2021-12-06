@@ -1,0 +1,16 @@
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\bin\Debug\net5.0\Overlapping Vents.exe
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\bin\Debug\net5.0\Overlapping Vents.deps.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\bin\Debug\net5.0\Overlapping Vents.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\bin\Debug\net5.0\Overlapping Vents.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\bin\Debug\net5.0\Overlapping Vents.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\bin\Debug\net5.0\ref\Overlapping Vents.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\bin\Debug\net5.0\Overlapping Vents.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\Overlapping Vents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\Overlapping Vents.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\Overlapping Vents.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\Overlapping Vents.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\Overlapping Vents.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\ref\Overlapping Vents.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\Overlapping Vents.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\Overlapping Vents.genruntimeconfig.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Overlapping Vents\obj\Debug\net5.0\Overlapping Vents.csproj.AssemblyReference.cache

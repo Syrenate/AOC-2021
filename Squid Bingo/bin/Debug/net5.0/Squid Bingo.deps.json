@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Squid Bingo/1.0.0": {
+        "runtime": {
+          "Squid Bingo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Squid Bingo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

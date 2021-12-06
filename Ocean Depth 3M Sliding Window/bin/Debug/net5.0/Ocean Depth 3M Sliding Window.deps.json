@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ocean Depth 3M Sliding Window/1.0.0": {
+        "runtime": {
+          "Ocean Depth 3M Sliding Window.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ocean Depth 3M Sliding Window/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

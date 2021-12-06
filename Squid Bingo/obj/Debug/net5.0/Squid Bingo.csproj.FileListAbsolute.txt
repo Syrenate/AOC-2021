@@ -1,0 +1,16 @@
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\bin\Debug\net5.0\Squid Bingo.exe
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\bin\Debug\net5.0\Squid Bingo.deps.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\bin\Debug\net5.0\Squid Bingo.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\bin\Debug\net5.0\Squid Bingo.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\bin\Debug\net5.0\Squid Bingo.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\bin\Debug\net5.0\ref\Squid Bingo.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\bin\Debug\net5.0\Squid Bingo.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\Squid Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\Squid Bingo.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\Squid Bingo.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\Squid Bingo.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\Squid Bingo.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\ref\Squid Bingo.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\Squid Bingo.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\Squid Bingo.genruntimeconfig.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Squid Bingo\obj\Debug\net5.0\Squid Bingo.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\bin\Debug\net5.0\80 Day Growth.exe
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\bin\Debug\net5.0\80 Day Growth.deps.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\bin\Debug\net5.0\80 Day Growth.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\bin\Debug\net5.0\80 Day Growth.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\bin\Debug\net5.0\80 Day Growth.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\bin\Debug\net5.0\ref\80 Day Growth.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\bin\Debug\net5.0\80 Day Growth.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\obj\Debug\net5.0\80 Day Growth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\obj\Debug\net5.0\80 Day Growth.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\obj\Debug\net5.0\80 Day Growth.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\obj\Debug\net5.0\80 Day Growth.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\obj\Debug\net5.0\80 Day Growth.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\obj\Debug\net5.0\ref\80 Day Growth.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\obj\Debug\net5.0\80 Day Growth.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\80 Day Growth\obj\Debug\net5.0\80 Day Growth.genruntimeconfig.cache

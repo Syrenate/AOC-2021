@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "256 Day Growth/1.0.0": {
+        "runtime": {
+          "256 Day Growth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "256 Day Growth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

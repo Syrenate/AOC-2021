@@ -1,0 +1,32 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\ref\Ocean Depth 3M Sliding Window.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\ref\Ocean Depth 3M Sliding Window.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.genruntimeconfig.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.csproj.AssemblyReference.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.exe
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.deps.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\ref\Ocean Depth 3M Sliding Window.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\bin\Debug\net5.0\Ocean Depth 3M Sliding Window.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.csproj.AssemblyReference.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\ref\Ocean Depth 3M Sliding Window.dll
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.pdb
+C:\Users\lukej\OneDrive\Documents\AOC-2021\AdventOfCode\Ocean Depth 3M Sliding Window\obj\Debug\net5.0\Ocean Depth 3M Sliding Window.genruntimeconfig.cache

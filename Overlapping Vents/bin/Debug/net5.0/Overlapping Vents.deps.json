@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Overlapping Vents/1.0.0": {
+        "runtime": {
+          "Overlapping Vents.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Overlapping Vents/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Overlap With Diagonals/1.0.0": {
+        "runtime": {
+          "Overlap With Diagonals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Overlap With Diagonals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

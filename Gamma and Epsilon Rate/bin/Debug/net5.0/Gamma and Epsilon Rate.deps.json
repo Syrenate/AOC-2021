@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Gamma and Epsilon Rate/1.0.0": {
+        "runtime": {
+          "Gamma and Epsilon Rate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gamma and Epsilon Rate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

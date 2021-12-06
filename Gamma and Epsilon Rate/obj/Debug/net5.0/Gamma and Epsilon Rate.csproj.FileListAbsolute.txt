@@ -1,0 +1,15 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\bin\Debug\net5.0\Gamma and Epsilon Rate.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\bin\Debug\net5.0\Gamma and Epsilon Rate.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\bin\Debug\net5.0\Gamma and Epsilon Rate.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\bin\Debug\net5.0\Gamma and Epsilon Rate.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\bin\Debug\net5.0\Gamma and Epsilon Rate.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\bin\Debug\net5.0\ref\Gamma and Epsilon Rate.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\bin\Debug\net5.0\Gamma and Epsilon Rate.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\obj\Debug\net5.0\Gamma and Epsilon Rate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\obj\Debug\net5.0\Gamma and Epsilon Rate.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\obj\Debug\net5.0\Gamma and Epsilon Rate.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\obj\Debug\net5.0\Gamma and Epsilon Rate.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\obj\Debug\net5.0\Gamma and Epsilon Rate.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\obj\Debug\net5.0\ref\Gamma and Epsilon Rate.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\obj\Debug\net5.0\Gamma and Epsilon Rate.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Gamma and Epsilon Rate\obj\Debug\net5.0\Gamma and Epsilon Rate.genruntimeconfig.cache

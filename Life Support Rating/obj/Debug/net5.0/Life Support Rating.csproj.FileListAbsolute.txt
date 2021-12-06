@@ -1,0 +1,16 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\bin\Debug\net5.0\Life Support Rating.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\bin\Debug\net5.0\Life Support Rating.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\bin\Debug\net5.0\Life Support Rating.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\bin\Debug\net5.0\Life Support Rating.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\bin\Debug\net5.0\Life Support Rating.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\bin\Debug\net5.0\ref\Life Support Rating.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\bin\Debug\net5.0\Life Support Rating.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\Life Support Rating.csproj.AssemblyReference.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\Life Support Rating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\Life Support Rating.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\Life Support Rating.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\Life Support Rating.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\Life Support Rating.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\ref\Life Support Rating.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\Life Support Rating.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Life Support Rating\obj\Debug\net5.0\Life Support Rating.genruntimeconfig.cache
