@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Decode All Outputs V2/1.0.0": {
+        "runtime": {
+          "Decode All Outputs V2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decode All Outputs V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\bin\Debug\net5.0\Decode All Outputs V2.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\bin\Debug\net5.0\Decode All Outputs V2.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\bin\Debug\net5.0\Decode All Outputs V2.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\bin\Debug\net5.0\Decode All Outputs V2.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\bin\Debug\net5.0\Decode All Outputs V2.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\bin\Debug\net5.0\ref\Decode All Outputs V2.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\bin\Debug\net5.0\Decode All Outputs V2.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\Decode All Outputs V2.csproj.AssemblyReference.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\Decode All Outputs V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\Decode All Outputs V2.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\Decode All Outputs V2.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\Decode All Outputs V2.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\Decode All Outputs V2.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\ref\Decode All Outputs V2.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\Decode All Outputs V2.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Decode All Outputs V2\obj\Debug\net5.0\Decode All Outputs V2.genruntimeconfig.cache
