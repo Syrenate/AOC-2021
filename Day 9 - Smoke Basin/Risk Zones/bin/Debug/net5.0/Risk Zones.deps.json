@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Risk Zones/1.0.0": {
+        "runtime": {
+          "Risk Zones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Risk Zones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
