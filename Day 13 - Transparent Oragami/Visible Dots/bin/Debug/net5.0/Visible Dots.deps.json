@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Visible Dots/1.0.0": {
+        "runtime": {
+          "Visible Dots.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Visible Dots/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
