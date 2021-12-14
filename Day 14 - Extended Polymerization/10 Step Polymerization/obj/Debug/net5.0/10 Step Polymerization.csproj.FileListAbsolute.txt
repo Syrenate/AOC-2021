@@ -1,0 +1,16 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\bin\Debug\net5.0\10 Step Polymerization.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\bin\Debug\net5.0\10 Step Polymerization.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\bin\Debug\net5.0\10 Step Polymerization.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\bin\Debug\net5.0\10 Step Polymerization.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\bin\Debug\net5.0\10 Step Polymerization.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\bin\Debug\net5.0\ref\10 Step Polymerization.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\bin\Debug\net5.0\10 Step Polymerization.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\10 Step Polymerization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\10 Step Polymerization.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\10 Step Polymerization.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\10 Step Polymerization.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\10 Step Polymerization.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\ref\10 Step Polymerization.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\10 Step Polymerization.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\10 Step Polymerization.genruntimeconfig.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\10 Step Polymerization\obj\Debug\net5.0\10 Step Polymerization.csproj.AssemblyReference.cache
