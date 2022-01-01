@@ -1,0 +1,16 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\bin\Debug\net5.0\2x Enhancment Algorithm.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\bin\Debug\net5.0\2x Enhancment Algorithm.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\bin\Debug\net5.0\2x Enhancment Algorithm.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\bin\Debug\net5.0\2x Enhancment Algorithm.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\bin\Debug\net5.0\2x Enhancment Algorithm.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\bin\Debug\net5.0\ref\2x Enhancment Algorithm.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\bin\Debug\net5.0\2x Enhancment Algorithm.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\2x Enhancment Algorithm.csproj.AssemblyReference.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\2x Enhancment Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\2x Enhancment Algorithm.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\2x Enhancment Algorithm.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\2x Enhancment Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\2x Enhancment Algorithm.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\ref\2x Enhancment Algorithm.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\2x Enhancment Algorithm.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\2x Enhancment Algorithm\obj\Debug\net5.0\2x Enhancment Algorithm.genruntimeconfig.cache

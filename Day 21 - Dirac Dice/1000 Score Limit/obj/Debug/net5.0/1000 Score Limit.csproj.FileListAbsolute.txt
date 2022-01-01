@@ -1,0 +1,16 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\bin\Debug\net5.0\1000 Score Limit.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\bin\Debug\net5.0\1000 Score Limit.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\bin\Debug\net5.0\1000 Score Limit.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\bin\Debug\net5.0\1000 Score Limit.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\bin\Debug\net5.0\1000 Score Limit.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\bin\Debug\net5.0\ref\1000 Score Limit.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\bin\Debug\net5.0\1000 Score Limit.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\1000 Score Limit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\1000 Score Limit.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\1000 Score Limit.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\1000 Score Limit.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\1000 Score Limit.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\ref\1000 Score Limit.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\1000 Score Limit.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\1000 Score Limit.genruntimeconfig.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\1000 Score Limit\obj\Debug\net5.0\1000 Score Limit.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\obj\Debug\net5.0\Maximum Turning Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\obj\Debug\net5.0\Maximum Turning Point.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\obj\Debug\net5.0\Maximum Turning Point.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\obj\Debug\net5.0\Maximum Turning Point.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\bin\Debug\net5.0\Maximum Turning Point.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\bin\Debug\net5.0\Maximum Turning Point.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\bin\Debug\net5.0\Maximum Turning Point.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\bin\Debug\net5.0\Maximum Turning Point.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\bin\Debug\net5.0\Maximum Turning Point.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\bin\Debug\net5.0\ref\Maximum Turning Point.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\bin\Debug\net5.0\Maximum Turning Point.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\obj\Debug\net5.0\Maximum Turning Point.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\obj\Debug\net5.0\ref\Maximum Turning Point.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\obj\Debug\net5.0\Maximum Turning Point.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\Maximum Turning Point\obj\Debug\net5.0\Maximum Turning Point.genruntimeconfig.cache

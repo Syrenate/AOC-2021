@@ -1,0 +1,15 @@
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\bin\Debug\net5.0\FInal Sum Magnitude.exe
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\bin\Debug\net5.0\FInal Sum Magnitude.deps.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\bin\Debug\net5.0\FInal Sum Magnitude.runtimeconfig.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\bin\Debug\net5.0\FInal Sum Magnitude.runtimeconfig.dev.json
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\bin\Debug\net5.0\FInal Sum Magnitude.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\bin\Debug\net5.0\ref\FInal Sum Magnitude.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\bin\Debug\net5.0\FInal Sum Magnitude.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\obj\Debug\net5.0\FInal Sum Magnitude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\obj\Debug\net5.0\FInal Sum Magnitude.AssemblyInfoInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\obj\Debug\net5.0\FInal Sum Magnitude.AssemblyInfo.cs
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\obj\Debug\net5.0\FInal Sum Magnitude.csproj.CoreCompileInputs.cache
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\obj\Debug\net5.0\FInal Sum Magnitude.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\obj\Debug\net5.0\ref\FInal Sum Magnitude.dll
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\obj\Debug\net5.0\FInal Sum Magnitude.pdb
+C:\Users\lukej\OneDrive\Documents\Personal Projects\AdventOfCode\FInal Sum Magnitude\obj\Debug\net5.0\FInal Sum Magnitude.genruntimeconfig.cache
